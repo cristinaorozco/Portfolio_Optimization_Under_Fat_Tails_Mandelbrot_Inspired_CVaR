@@ -39,7 +39,7 @@ To build a robust asset allocation model that maximizes the expected return adju
 - numpy
 - pandas
 - matplotlib
-- `cipy.stats.t (Student’s t-distribution)
+- scipy.stats.t (Student’s t-distribution)
 
 ---
 
@@ -66,5 +66,6 @@ To build a robust asset allocation model that maximizes the expected return adju
 Cristina Orozco.  
 Quantitative Researcher | Risk Model Developer | Data Scientist  
 Focused on building robust, data-driven solutions for financial decision-making.
+
 LinkedIn: https:www.linkedin.com/in/cristina-orozco
 
