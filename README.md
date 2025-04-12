@@ -67,5 +67,5 @@ Cristina Orozco.
 Quantitative Researcher | Risk Model Developer | Data Scientist  
 Focused on building robust, data-driven solutions for financial decision-making.
 
-LinkedIn: https:www.linkedin.com/in/cristina-orozco
+LinkedIn: www.linkedin.com/in/cristina-orozco
 
